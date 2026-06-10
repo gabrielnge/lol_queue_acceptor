@@ -1,0 +1,1 @@
+CreateObject("WScript.Shell").Run "pythonw ""C:\Users\gabri\Desktop\lol_queue_acceptor\accept.py""", 0, False
